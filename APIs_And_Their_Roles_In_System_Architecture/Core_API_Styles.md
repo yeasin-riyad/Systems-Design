@@ -1,7 +1,6 @@
 # 🚀 Core API Styles Complete Guide
 
 > Beginner to Advanced Interview Preparation Notes  
-> Written in Bangla 🇧🇩
 
 ---
 
